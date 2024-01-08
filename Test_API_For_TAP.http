@@ -1,0 +1,6 @@
+@Test_API_For_TAP_HostAddress = http://localhost:5004
+
+GET {{Test_API_For_TAP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
